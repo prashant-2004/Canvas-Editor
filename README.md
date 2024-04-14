@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Before running Project, You need to install one React Library named: react-color, use following command 
+
+### `npm install react-color`
+
 In the project directory, you can run:
 
 ### `npm start`
